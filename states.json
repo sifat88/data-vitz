@@ -1,0 +1,2422 @@
+[
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 1,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 2,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 588,
+        "device_name": "Ceiling 1 Power",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 3,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 4,
+        "light_level": 50,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 821,
+        "device_name": "Desk Strip Yellow",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 5,
+        "light_level": 100,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 914,
+        "device_name": "Living Room Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 6,
+        "light_level": 60,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 916,
+        "device_name": "Living Room Color",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 7,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 918,
+        "device_name": "Living Room Saturation",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 8,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 9,
+        "light_level": 15,
+        "room_name": "Living Room",
+        "time_stamp": 1652673864
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 10,
+        "light_level": 59,
+        "room_name": "Living Room",
+        "time_stamp": 1652674015
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 11,
+        "light_level": 51,
+        "room_name": "Living Room",
+        "time_stamp": 1652674044
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 12,
+        "light_level": 47,
+        "room_name": "Living Room",
+        "time_stamp": 1652674044
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 13,
+        "light_level": 34,
+        "room_name": "Living Room",
+        "time_stamp": 1652674044
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 14,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652674048
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 15,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652674051
+    },
+    {
+        "device_id": 588,
+        "device_name": "Ceiling 1 Power",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 16,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 17,
+        "light_level": 34,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 821,
+        "device_name": "Desk Strip Yellow",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 18,
+        "light_level": 100,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 914,
+        "device_name": "Living Room Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 19,
+        "light_level": 60,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 916,
+        "device_name": "Living Room Color",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 20,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 918,
+        "device_name": "Living Room Saturation",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 21,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 22,
+        "light_level": 15,
+        "room_name": "Living Room",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1076,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 23,
+        "light_level": 0,
+        "room_name": "Entry",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1077,
+        "device_name": "x",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 24,
+        "light_level": 0,
+        "room_name": "Entry",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 590,
+        "device_name": "Kitchen",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 25,
+        "light_level": "",
+        "room_name": "Kitchen",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 507,
+        "device_name": "Print Tent",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 26,
+        "light_level": "",
+        "room_name": "Office",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 910,
+        "device_name": "Bedroom Color",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 27,
+        "light_level": 0,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 28,
+        "light_level": 100,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 901,
+        "device_name": "Yard",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 29,
+        "light_level": 10,
+        "room_name": "Yard",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1113,
+        "device_name": "living room",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 30,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1083,
+        "device_name": "Bathroom Brightness",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 31,
+        "light_level": 0,
+        "room_name": "Bathroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1081,
+        "device_name": "Bathroom Temp",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 32,
+        "light_level": 0,
+        "room_name": "Bathroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1079,
+        "device_name": "Bathroom Sat",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 33,
+        "light_level": 0,
+        "room_name": "Bathroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 1085,
+        "device_name": "Bathroom Color",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 34,
+        "light_level": 0,
+        "room_name": "Bathroom",
+        "time_stamp": 1652677214
+    },
+    {
+        "device_id": 583,
+        "device_name": "motion Sensor",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 35,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 584,
+        "device_name": "Door Contact Sensor 4",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 36,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 585,
+        "device_name": "Door Contact Sensor 5",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 37,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 38,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 39,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 40,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 41,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652677225
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 42,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652677240
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 43,
+        "light_level": 0,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677256
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 44,
+        "light_level": 0,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677256
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 45,
+        "light_level": 100,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677259
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 46,
+        "light_level": 100,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677259
+    },
+    {
+        "device_id": 590,
+        "device_name": "Kitchen",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 47,
+        "light_level": "",
+        "room_name": "Kitchen",
+        "time_stamp": 1652677452
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 48,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677452
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 49,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677452
+    },
+    {
+        "device_id": 821,
+        "device_name": "Desk Strip Yellow",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 50,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677452
+    },
+    {
+        "device_id": 821,
+        "device_name": "Desk Strip Yellow",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 51,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677452
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 52,
+        "light_level": 0,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677453
+    },
+    {
+        "device_id": 912,
+        "device_name": "Bedroom Brightness",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 53,
+        "light_level": 0,
+        "room_name": "Bedroom",
+        "time_stamp": 1652677453
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 54,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677453
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 55,
+        "light_level": 0,
+        "room_name": "Living Room",
+        "time_stamp": 1652677453
+    },
+    {
+        "device_id": 901,
+        "device_name": "Yard",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 56,
+        "light_level": 0,
+        "room_name": "Yard",
+        "time_stamp": 1652680801
+    },
+    {
+        "device_id": 901,
+        "device_name": "Yard",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 57,
+        "light_level": 0,
+        "room_name": "Yard",
+        "time_stamp": 1652680801
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 58,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652711360
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 59,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652712905
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 60,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652713026
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 61,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652713040
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 62,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652713100
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 63,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652713108
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 64,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652713160
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 65,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652713168
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 66,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652751740
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 67,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652751751
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 68,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652751752
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 69,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652751781
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 70,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652751798
+    },
+    {
+        "device_id": 590,
+        "device_name": "Kitchen",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 71,
+        "light_level": "",
+        "room_name": "Kitchen",
+        "time_stamp": 1652752081
+    },
+    {
+        "device_id": 588,
+        "device_name": "Ceiling 1 Power",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 72,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652752096
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 73,
+        "light_level": 1,
+        "room_name": "Living Room",
+        "time_stamp": 1652752096
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 74,
+        "light_level": 1,
+        "room_name": "Living Room",
+        "time_stamp": 1652752096
+    },
+    {
+        "device_id": 820,
+        "device_name": "Desk Strip",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 75,
+        "light_level": 50,
+        "room_name": "Living Room",
+        "time_stamp": 1652752097
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 76,
+        "light_level": 10,
+        "room_name": "Living Room",
+        "time_stamp": 1652752100
+    },
+    {
+        "device_id": 920,
+        "device_name": "Living Room Temperature",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 77,
+        "light_level": 10,
+        "room_name": "Living Room",
+        "time_stamp": 1652752100
+    },
+    {
+        "device_id": 918,
+        "device_name": "Living Room Saturation",
+        "device_state": 0,
+        "device_type": "light",
+        "id": 78,
+        "light_level": 100,
+        "room_name": "Living Room",
+        "time_stamp": 1652752113
+    },
+    {
+        "device_id": 918,
+        "device_name": "Living Room Saturation",
+        "device_state": 1,
+        "device_type": "light",
+        "id": 79,
+        "light_level": 100,
+        "room_name": "Living Room",
+        "time_stamp": 1652752113
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 80,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652752344
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 81,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652752385
+    },
+    {
+        "device_id": 583,
+        "device_name": "motion Sensor",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 82,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 584,
+        "device_name": "Door Contact Sensor 4",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 83,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 585,
+        "device_name": "Door Contact Sensor 5",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 84,
+        "light_level": "",
+        "room_name": "System",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 85,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 86,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 87,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 88,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652753101
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 89,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753102
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 90,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753177
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 91,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753257
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 92,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652753344
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 93,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652761255
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 94,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652798917
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 95,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652803755
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 96,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652803771
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 97,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652804362
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 98,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652804370
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 99,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652804372
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 100,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652817444
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 101,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652817453
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 102,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652817454
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 103,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652825919
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 104,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652825934
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 105,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652826234
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 106,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652826235
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 107,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652829596
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 108,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652841599
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 109,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652841599
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 110,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652841614
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 111,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652841659
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 112,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652841675
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 113,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652848786
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 114,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652884962
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 115,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652892372
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 116,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652892732
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 117,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652892946
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 118,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652892948
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 119,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652893009
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 120,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652893010
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 121,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652893017
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 122,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652893062
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 123,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652893095
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 124,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652893247
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 125,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652893257
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 126,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652907039
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 127,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652907045
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 128,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652907048
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 129,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652907061
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 130,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652907532
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 131,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652910976
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 132,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652911036
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 133,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652913482
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 134,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652913512
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 135,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652914958
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 136,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652914989
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 137,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652921002
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 138,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652921014
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 139,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652921014
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 140,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652936857
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 141,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652936860
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 142,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652936872
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 143,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652937987
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 144,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652973993
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 145,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652985307
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 146,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652985312
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 147,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652985315
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 148,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652985758
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 149,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652985759
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 150,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652985762
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 151,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652987542
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 152,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652987545
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 153,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652988187
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 154,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1652989825
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 155,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652991757
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 156,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652992358
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 157,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652992379
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 158,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652992388
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 159,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652992418
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 160,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1652992418
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 161,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1652992486
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 162,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653057167
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 163,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653057285
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 164,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653057613
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 165,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653057884
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 166,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653092528
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 167,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653092542
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 168,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653092570
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 169,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653092794
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 170,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653092933
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 171,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653098503
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 172,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653098511
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 173,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653098515
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 174,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653119770
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 175,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653119773
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 176,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653119785
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 177,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653119920
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 178,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653149480
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 179,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653150396
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 180,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653150416
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 181,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653150425
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 182,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653150454
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 183,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653166451
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 184,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653166485
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 185,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653168161
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 186,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653168197
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 187,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653177856
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 188,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653178199
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 189,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653179594
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 190,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653179595
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 191,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653179600
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 192,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653190103
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 193,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653190111
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 194,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653190112
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 195,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653199405
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 196,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653230835
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 197,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653231128
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 198,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653231135
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 199,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653231137
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 200,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653239511
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 201,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653239515
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 202,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653239522
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 203,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653250495
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 204,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653250589
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 205,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653250595
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 206,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653250597
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 207,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653250610
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 208,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653269774
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 209,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653269778
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 210,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653269784
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 211,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653295490
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 212,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653316133
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 213,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653318449
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 214,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653318749
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 215,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653318758
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 216,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653325300
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 217,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653325301
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 218,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653325305
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 219,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653338235
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 220,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653338253
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 221,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653338445
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 222,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653338747
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 223,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653338760
+    },
+    {
+        "device_id": 412,
+        "device_name": "Front Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 224,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653340035
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 225,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653340245
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 226,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653340298
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 227,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653346338
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 228,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653346540
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 229,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653351093
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 230,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653351192
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 231,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653351273
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 232,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653351291
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 233,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653351920
+    },
+    {
+        "device_id": 417,
+        "device_name": "Shed Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 234,
+        "light_level": "",
+        "room_name": "Shed",
+        "time_stamp": 1653351980
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 235,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653353405
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 236,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653353772
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 237,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653353784
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 238,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653367823
+    },
+    {
+        "device_id": 769,
+        "device_name": "Yard Gate",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 239,
+        "light_level": "",
+        "room_name": "Yard",
+        "time_stamp": 1653367826
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 240,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653367837
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 1,
+        "device_type": "toggle",
+        "id": 241,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653370366
+    },
+    {
+        "device_id": 413,
+        "device_name": "Back Door",
+        "device_state": 0,
+        "device_type": "toggle",
+        "id": 242,
+        "light_level": "",
+        "room_name": "Living Room",
+        "time_stamp": 1653404282
+    }
+]
